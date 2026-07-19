@@ -1,5 +1,7 @@
+<h1 align="center">YOUR_NEW_NAME</h1>
+
 <p align="center">
-  <img src="./banner.svg" alt="YOUR_NEW_NAME" width="100%"/>
+  Full-Stack Developer &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; React
 </p>
 
 <p align="center">
@@ -23,27 +25,45 @@ Full-stack developer focused on building clean, maintainable web applications. B
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" title="Java" alt="Java"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="46" title="Spring Boot" alt="Spring Boot"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" title="React" alt="React"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" title="JavaScript" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" title="HTML5" alt="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" title="CSS3" alt="CSS3"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="46" title="Tailwind CSS" alt="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="46" title="Material UI" alt="Material UI"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" title="MySQL" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" title="Git" alt="Git"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [**PhanTask**](https://github.com/er-YOUR_NEW_NAME/PhanTask) | Organizational management platform for task and people management — React (MUI + Tailwind) with a Spring Boot backend, role-based authentication |
-| [**Connexus**](https://github.com/er-YOUR_NEW_NAME/Connexus) | Contact management system with mail integration, contact grouping, and secure access control — built with Spring Boot |
-| [**DevConnect**](https://github.com/er-YOUR_NEW_NAME/DevConnect) | Full-stack social media application — Spring Boot backend with a React frontend |
+<details open>
+<summary><b>🗂️ PhanTask</b></summary>
+<br>
+Organizational management platform for task and people management — React (MUI + Tailwind) with a Spring Boot backend, role-based authentication.
+<br><br>
+<a href="https://github.com/er-YOUR_NEW_NAME/PhanTask">→ View repository</a>
+</details>
+
+<details>
+<summary><b>📇 Connexus</b></summary>
+<br>
+Contact management system with mail integration, contact grouping, and secure access control — built with Spring Boot.
+<br><br>
+<a href="https://github.com/er-YOUR_NEW_NAME/Connexus">→ View repository</a>
+</details>
+
+<details>
+<summary><b>🌐 DevConnect</b></summary>
+<br>
+Full-stack social media application — Spring Boot backend with a React frontend.
+<br><br>
+<a href="https://github.com/er-YOUR_NEW_NAME/DevConnect">→ View repository</a>
+</details>
 
 ---
 
@@ -62,5 +82,3 @@ Full-stack developer focused on building clean, maintainable web applications. B
 <p align="center">
   <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=er-YOUR_NEW_NAME&style=flat&color=8B1E3F" alt="profile views" align="middle"/></sub>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100d10,50:8B1E3F,100:C9622A&height=90&section=footer" width="100%"/>
